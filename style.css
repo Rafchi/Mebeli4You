@@ -1,5 +1,6 @@
 body{
-background-color: #EAE7DC;
+    background-color: #EAE7DC;
+    width: 100%;
 }
 .navbar{
     display: flex;
